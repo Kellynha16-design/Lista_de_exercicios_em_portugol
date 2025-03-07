@@ -24,7 +24,7 @@ Este repositório contém uma lista de exercícios de algoritmos desenvolvidos p
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Kellynha16-design/Lista_de_exercicios_em_portugol.git
    ```
 2. Abra os arquivos no Portugol Studio ou outra IDE de sua preferência.
 3. Execute os algoritmos e teste as saídas.
