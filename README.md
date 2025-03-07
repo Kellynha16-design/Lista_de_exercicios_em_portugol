@@ -1,6 +1,7 @@
 # Lista de Exercícios de Algoritmos
 
-Este repositório contém uma lista de exercícios de algoritmos desenvolvidos para aprimorar o aprendizado em lógica de programação. Os algoritmos foram criados utilizando Portugol, mas podem ser adaptados para outras linguagens de programação.
+Este repositório contém exercícios de algoritmos para desenvolver lógica de programação. Os códigos foram escritos em Portugol, podendo ser adaptados para Python, Java ou C. O objetivo é fornecer material de estudo para iniciantes, estimulando o raciocínio lógico e a criação de soluções eficientes.
+
 
 ## Exercícios Disponíveis
 
