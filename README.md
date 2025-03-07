@@ -3,6 +3,9 @@
 Este repositório contém exercícios de algoritmos para desenvolver lógica de programação. Os códigos foram escritos em Portugol, podendo ser adaptados para Python, Java ou C. O objetivo é fornecer material de estudo para iniciantes, estimulando o raciocínio lógico e a criação de soluções eficientes.
 
 
+
+![lista foto](https://github.com/user-attachments/assets/2b131019-940e-4044-b3d9-54a1744dce07)
+
 ## Exercícios Disponíveis
 
 1. Solicitar nome e ano de nascimento, exibir saudação e idade.
