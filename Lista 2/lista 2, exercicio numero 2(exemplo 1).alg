@@ -1,17 +1,18 @@
 algoritmo "Lista 2, exercicio 2,(exemplo 1)"
-// FunÁ„o :faÁa um programa que receba a quantidade de horas trabalhadas e o valor do sal·rio mÌnimo. calcule e mostre o sal·rio a receber de acordo com as seguintes regras:
-// a) a hora trabalhada equivale a metade do sal·rio mÌnimo.
-// b) o sal·rio bruto equivale ao n˙mero de horas trabalhadas multiplicado pelo valor da hora trabalhada.
-// c) o imposto equivale a 3% do sal·rio bruto. d) o sal·rio a receber equivale ao sal·rio bruto menos o imposto.
+// Fun√ß√£o :fa√ßa um programa que receba a quantidade de horas trabalhadas e o valor do sal√°rio m√≠nimo. calcule e mostre o sal√°rio a receber de acordo com as seguintes regras:
+// a) a hora trabalhada equivale a metade do sal√°rio m√≠nimo.
+// b) o sal√°rio bruto equivale ao n√∫mero de horas trabalhadas multiplicado pelo valor da hora trabalhada.
+// c) o imposto equivale a 3% do sal√°rio bruto.
+// d) o sal√°rio a receber equivale ao sal√°rio bruto menos o imposto.
  
-// Autor :Kelly Ara˙jo
+// Autor :Kelly Ara√∫jo
 // Data : 04/03/2025
-// SeÁ„o de DeclaraÁıes
+// Se√ß√£o de Declara√ß√µes
 var
  salario_minimo,n_horas_trabalhadas,cada_h_trabalhada,salario_bruto,imposto_salarial,salario_final:real
 inicio
-// SeÁ„o de Comandos
-Escreval("Informe o valor do seu sal·rio")
+// Se√ß√£o de Comandos
+Escreval("Informe o valor do seu sal√°rio")
 Leia(salario_minimo)
 Escreval("Informe o numero de horas trabalhadas")
 Leia(n_horas_trabalhadas)
@@ -20,10 +21,10 @@ salario_bruto<-(cada_h_trabalhada*n_horas_trabalhadas)
 imposto_salarial <- (3 / 100) * salario_bruto
 salario_final <- salario_bruto - imposto_salarial
 
-// ExibiÁ„o dos resultados
-Escreval("VocÍ recebe R$ ", cada_h_trabalhada, " por cada hora trabalhada.")
-Escreval("O sal·rio bruto È R$ ", salario_bruto)
-Escreval("O imposto (3%) È R$ ", imposto_salarial)
-Escreval("O sal·rio final ser· R$ ", salario_final)
+// Exibi√ß√£o dos resultados
+Escreval("Voc√™ recebe R$ ", cada_h_trabalhada, " por cada hora trabalhada.")
+Escreval("O sal√°rio bruto √© R$ ", salario_bruto)
+Escreval("O imposto (3%) √© R$ ", imposto_salarial)
+Escreval("O sal√°rio final ser√° R$ ", salario_final)
 Fimalgoritmo
 
